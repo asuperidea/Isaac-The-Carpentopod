@@ -1,6 +1,6 @@
 # Isaac The Carpentopod
 
-Isaac The Carpentopod is a walking robot that uses [Giliam de Carpentier's *Carpentopod* Linkage](https://www.decarpentier.nl/carpentopod). Isaac's body is fully 3D printed in PLA, his brain is an **arduinio mega** paired with an **L298N dual motor driver** that powers both of Isaac's **DC Motors**.
+Isaac The Carpentopod is a walking robot that uses [Giliam de Carpentier's *Carpentopod* Linkage](https://www.decarpentier.nl/carpentopod). Isaac's body is fully 3D printed in PLA, his brain is an **Arduinio mega** paired with an **L298N dual motor driver** that powers both of Isaac's **Gearbox DC Motors**.
 
 # Story
 
@@ -10,13 +10,21 @@ Isaac was designed in [OnShape](https://cad.onshape.com/documents/fd8d649ce3643e
 Isaac is split into three thirds: the outer two sections house three leg linkages each, while the central section holds the electronics. The leg sections use backplates for each linkage, the backplates keep the legs in place while being attached on beams that run to the central section. The central section has four levels sandwhiched between two large plates, these levels contain the electronics.
 
 ## Printing
-The 3D printing process took around 4 days of on and off printing. During this time I used an estimated 700 grams of filament (PLA). To avoid glue, I would pause prints and insert parts into them, allowing for moving parts that are still kept together. Later in the process I printed the central portions of the robot. Some parts did require [PLA glue](https://www.amazon.com/Printer-Super-Glue-Gel-Heat-Resistant/dp/B0CBSGWZRW/ref=sr_1_1_sspa?crid=86NREV8943G8&dib=eyJ2IjoiMSJ9.19yJbo-5bvXL7KD5E2NMgXu9StQKC6avadNB-stHF7pIGL33KFIcGC3tCtXIEDRbbP0vVgIViG1utavp7TTn080eyev_qy9XG2GSaJoCs-iiuPuqHVg6sMpRhTnAZEJw1ksYQGcDXPQoZg_HRBfxkXSgeG9VItB2UqPnjA3bxVlDqdMeSuC-K7LL8fDNnvPjifW4PD1fklRSpHnTQdppHj42k9TPr8_RhzHzAS_PeX8.WQQJoYOdDjPJ20v038Wfex24ds_I0x1Lnnw3P0xarnE&dib_tag=se&keywords=pla%2Bglue&qid=1785071184&sprefix=pla%2Bglue%2Caps%2C120&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) to attach together. While building I also broke some parts, requiring make-up prints. ***If you would like to 3d print these parts yourself, please see the [3D Files Folder](/3D%20Files/) and parts list***.
+The 3D printing process took around 4 days of on and off printing. During this time I used an estimated 700 grams of filament (PLA). To avoid glue, I would pause prints and insert parts into them, allowing for moving parts that are still kept together. Later in the process I printed the central portions of the robot. Some parts did require [PLA glue](https://www.amazon.com/Printer-Super-Glue-Gel-Heat-Resistant/dp/B0CBSGWZRW/ref=sr_1_1_sspa?crid=86NREV8943G8&dib=eyJ2IjoiMSJ9.19yJbo-5bvXL7KD5E2NMgXu9StQKC6avadNB-stHF7pIGL33KFIcGC3tCtXIEDRbbP0vVgIViG1utavp7TTn080eyev_qy9XG2GSaJoCs-iiuPuqHVg6sMpRhTnAZEJw1ksYQGcDXPQoZg_HRBfxkXSgeG9VItB2UqPnjA3bxVlDqdMeSuC-K7LL8fDNnvPjifW4PD1fklRSpHnTQdppHj42k9TPr8_RhzHzAS_PeX8.WQQJoYOdDjPJ20v038Wfex24ds_I0x1Lnnw3P0xarnE&dib_tag=se&keywords=pla%2Bglue&qid=1785071184&sprefix=pla%2Bglue%2Caps%2C120&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) to attach together. While building I also broke some parts, requiring make-up prints. ***If you would like to 3d print these parts yourself, please see the [3D Files Folder](/3D%20Files/)***.
 
 ## Building and Iteration
 While Isaac was mostly built as designed, some things were changed or adapted during the process. For example I switched from hot glue to PLA glue. Another notable change was the introduction of gears to provide more torque. These changes helped make Isaac much better.
 
 ## Hackclub
 Isaac was built for the [Hackclub](https://hackclub.com/) program [Macondo](https://macondo.hackclub.com/). For previous projects, Hackclub provided me with funding and an amazing community. You can see [**Isaac on Hackclub here**](https://macondo.hackclub.com/projects/7520).
+
+## Watch Isaac
+See the following linsk to watch Isaac move!
+https://youtube.com/shorts/_IkzzDk3RVs
+https://youtube.com/shorts/l0Tr8de97ck
+https://youtube.com/shorts/lmN1PoIx2i8
+https://youtu.be/W7OBL0XSNqM
+
 
 
 
@@ -30,13 +38,17 @@ Isaac was built for the [Hackclub](https://hackclub.com/) program [Macondo](http
 | L298N Motor Driver | 1 | $3.45 | $6.90 | https://www.amazon.com/WWZMDiB-L298N-H-Bridge-Controller-Raspberry/dp/B0CR6BX5QL | Other vendors avalible, Only one Needed |
 | *IR Remote + Reviever | 1 | $2.66 | $7.99 | https://www.amazon.com/HiLetgo-HX1838-Infrared-Wireless-Control/dp/B01HTC5JX4/ | Any Receiver/Remote that can work w/ arduino works, Only One Needed |
 | *PLA Glue | 1 | $12.99 | $12.99 | https://www.amazon.com/Printer-Super-Glue-Gel-Heat-Resistant/dp/B0CBSGWZRW/ | 1.76 Oz, what I used for this project |
+| Rechargeable Battieres | 2 | $3.24 | $12.99 | https://www.amazon.com/dp/B0FRMWGPD2 | 2 Minimum, 4 recomended |
+| Battery Clip DC Plug | 2 | ~$2 | $3.99 | https://www.amazon.com/dp/B0D9VT2FMF | 2 Minimum, More recomended in case they break |
 
+**See [BOM in CSV](/Misc/BOM.csv) for CSV Bill of Materials**
 
 # Repo Guide
 
-[3D Files](/3D%20Files/) Contains all the files used here, they are also in the [OnShape](https://cad.onshape.com/documents/fd8d649ce3643e24ce6086ff/w/2fd19f425c5ef16a61c62a1e/e/ff1b6042f026958810a4dbde?renderMode=0&uiState=6a542440be2fa235f951ae78)
+[3D Files](/3D%20Files/) Contains all the files used here, they are also in the [OnShape](https://cad.onshape.com/documents/fd8d649ce3643e24ce6086ff/w/2fd19f425c5ef16a61c62a1e/e/35f5cd3640a624cc9189c34f?renderMode=0&uiState=6a6fe5be9d84c89072675b46). All files are .stl with "STEPS Files" folders containing .STEP.
 [Software](/Software/) Contains all the code that the arduino runs
 [Journals](/Journals/) Contains every Hackclub journal entry I made (markdown files)
+[Images](/Images/) Contains images of Isaac
 
 # About Me
 My name is Simon, I am a rising 10th grader (Class of '29) in North Carolina, United States. I built Isaac to challange myself and to get into Hackclub Macondos Columbia Hackathon, an amazing oppurtunity.

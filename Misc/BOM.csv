@@ -1,0 +1,9 @@
+Item,Quantity,Price,Full Price,URL,Note
+DC Motors,2,$2.50,$9.99 (4x),,
+DC Motors,2,$1.74,$6.99 (4x),https://www.amazon.com/BOJACK-Pcs-Type-130-EK1450/dp/B09FPXF1QK,Other DC motors may work
+*Arduino MEGA,1,$22.99,$22.99,https://www.amazon.com/ELEGOO-Compatible-Arduino-Projects-Compliant/dp/B01H4ZLZLQ,Other vendors avalible
+L298N Motor Driver,1,$3.45,$6.90,https://www.amazon.com/WWZMDiB-L298N-H-Bridge-Controller-Raspberry/dp/B0CR6BX5QL,"Other vendors avalible, Only one Needed"
+*IR Remote + Reviever,1,$2.66,$7.99,https://www.amazon.com/HiLetgo-HX1838-Infrared-Wireless-Control/dp/B01HTC5JX4/,"Any Receiver/Remote that can work w/ arduino works, Only One Needed"
+*PLA Glue,1,$12.99,$12.99,https://www.amazon.com/Printer-Super-Glue-Gel-Heat-Resistant/dp/B0CBSGWZRW/,"1.76 Oz, what I used for this project"
+Rechargeable Battieres,2,$3.24,$12.99,https://www.amazon.com/dp/B0FRMWGPD2,"2 Minimum, 4 recomended"
+Battery Clip DC Plug,2,~$2,$3.99,https://www.amazon.com/dp/B0D9VT2FMF,"2 Minimum, More recomended in case they break"
