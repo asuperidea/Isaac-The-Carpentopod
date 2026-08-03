@@ -42,6 +42,7 @@ https://youtu.be/W7OBL0XSNqM
 | Battery Clip DC Plug | 2 | ~$2 | $3.99 | https://www.amazon.com/dp/B0D9VT2FMF | 2 Minimum, More recomended in case they break |
 
 **See [BOM in CSV](/Misc/BOM.csv) for CSV Bill of Materials**
+**See [Wiring Diagram](/Misc/Circuit%20Image%20from%20Cirkit%20Designer.svg) For Wiring**
 
 # Repo Guide
 
