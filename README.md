@@ -53,5 +53,3 @@ https://youtu.be/W7OBL0XSNqM
 
 # About Me
 My name is Simon, I am a rising 10th grader (Class of '29) in North Carolina, United States. I built Isaac to challange myself and to get into Hackclub Macondos Columbia Hackathon, an amazing oppurtunity.
-
-I hope you like this project as much as I did, - Simon
