@@ -14,14 +14,21 @@ const int in4 = 12;
 // IR remote pin
 #define IR_RECEIVE_PIN 8
 // IR remote variables, each corisponds to a button on the remote
+// 0
+// 1 2* 3
+// 4 5* 6
+// 7 8* 9
+// * Unused
 #define STOP 0xE916FF00
-#define FORWARD 0xF30CFF00
-#define BACKWARD 0xE718FF00
-#define LEFT 0xBD42FF00
-#define RIGHT 0xB54AFF00
+#define FORWARDSLOW 0xF30CFF00
+#define BACKWARDSLOW 0xA15EFF00
+#define FORWARD 0xF708FF00
+#define BACKWARD 0xA55AFF00
+#define FORWARDFAST 0xBD42FF00
+#define BACKWARDFAST 0xB54AFF00
 // Change these above ^ hex codes if you have a differnt IR Remote
 
-const int speed = 100; // how fast the motors spin. -255 (reverse) to 255. gears lower this by x3.75. Setting a negitive number will inverse controls
+const int speed = 150; // how fast the motors spin. -255 (reverse) to 255. gears lower this by x3.75
 
 void setup() {
   // set pins to output
@@ -50,21 +57,29 @@ if (IrReceiver.decode()) { // detect recived signal
           Serial.println("stop / 0 detected");
           stopMotors();
           break;
-        case FORWARD: // detect forward button (1 by defualt)
-          Serial.println("forward / 1 detected");
+        case FORWARDSLOW: // detect forward button (1 by defualt)
+          Serial.println("forward slow / 1 detected");
+          forward(speed*0.7);
+          break;
+        case BACKWARDSLOW: // detect backwars button (3 by defualt)
+          Serial.println("backward slow / 3 detected");
+          backward(speed*0.7);
+          break;
+        case FORWARD: // detect forward button (4 by defualt)
+          Serial.println("forward / 4 detected");
           forward(speed);
           break;
-        case BACKWARD: // detect backwars button (2 by defualt)
-          Serial.println("backward / 2 detected");
+        case BACKWARD: // detect backwars button (6 by defualt)
+          Serial.println("backward / 6 detected");
           backward(speed);
           break;
-        case LEFT: // detect left turn button (7 by defualt)
-          Serial.println("left / 7 detected");
-          turnLeft(speed);
+        case FORWARDFAST: // detect forward button (7 by defualt)
+          Serial.println("forward / 4 detected");
+          forward(speed*1.4);
           break;
-        case RIGHT: // detect right button (9 by defualt)
-          Serial.println("right / 9 detected");
-          turnRight(speed);
+        case BACKWARDFAST: // detect backwars button (9 by defualt)
+          Serial.println("backward / 6 detected");
+          backward(speed*1.4);
           break;
       }
     }
@@ -101,21 +116,11 @@ void motorB(int speed) { // only controls motor B
 
 void forward(int speed) {
   motorA(speed);
-  motorB(-speed);
+  motorB(speed);
 }
 
 void backward(int speed) {
   motorA(-speed);
-  motorB(speed);
-}
-
-void turnLeft(int speed) {
-  motorA(-speed);
-  motorB(speed);
-}
-
-void turnRight(int speed) {
-  motorA(speed);
   motorB(-speed);
 }
 
