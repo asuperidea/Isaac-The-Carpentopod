@@ -20,11 +20,11 @@ Isaac was built for the [Hackclub](https://hackclub.com/) program [Macondo](http
 
 ## Watch Isaac
 See the following linsk to watch Isaac move!
-https://youtube.com/shorts/_IkzzDk3RVs
-https://youtube.com/shorts/l0Tr8de97ck
-https://youtube.com/shorts/lmN1PoIx2i8
-https://youtu.be/W7OBL0XSNqM
-
+- https://youtube.com/shorts/_IkzzDk3RVs 
+- https://youtube.com/shorts/l0Tr8de97ck 
+- https://youtube.com/shorts/lmN1PoIx2i8 
+- https://youtu.be/W7OBL0XSNqM 
+- https://youtube.com/shorts/VChF0OOxuyg 
 
 
 
