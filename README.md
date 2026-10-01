@@ -2,7 +2,7 @@
 
 Isaac The Carpentopod is a walking robot that uses [Giliam de Carpentier's *Carpentopod* Linkage](https://www.decarpentier.nl/carpentopod). Isaac's body is fully 3D printed in PLA, his brain is an **Arduinio mega** paired with an **L298N dual motor driver** that powers both of Isaac's **Gearbox DC Motors**.
 
-![Issac](/images/IMG_3768.jpg)
+![Issac](/Images/IMG_3768.jpg)
 
 # Story
 
@@ -57,5 +57,5 @@ See the following linsk to watch Isaac move!
 My name is [Simon](https://simoncrystal.dev), I am a rising 10th grader (Class of '29) in North Carolina, United States. I built Isaac to challange myself and to get into Hackclub Macondos Columbia Hackathon, an amazing oppurtunity.
 
 
-![Issac](/images/IMG_3767.jpg)
-![Issac](/images/IMG_3765.jpg)
+![Issac](/Images/IMG_3767.jpg)
+![Issac](/Images/IMG_3765.jpg)
