@@ -29,7 +29,7 @@ See the following linsk to watch Isaac move!
 
 
 # Bill of Materials
-* "*" Indicates somthing I already had before starting this project*
+* A star Indicates somthing I already had before starting this project*
 
 | Item | Quantity | Price | Full Price | URL | Note |
 | --------- | -- | ----- | ---------- | ---------------------------------------------------------------| -------- |
@@ -52,4 +52,4 @@ See the following linsk to watch Isaac move!
 [Images](/Images/) Contains images of Isaac
 
 # About Me
-My name is Simon, I am a rising 10th grader (Class of '29) in North Carolina, United States. I built Isaac to challange myself and to get into Hackclub Macondos Columbia Hackathon, an amazing oppurtunity.
+My name is [Simon](https://simoncrystal.dev), I am a rising 10th grader (Class of '29) in North Carolina, United States. I built Isaac to challange myself and to get into Hackclub Macondos Columbia Hackathon, an amazing oppurtunity.
