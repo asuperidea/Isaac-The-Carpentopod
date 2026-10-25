@@ -23,6 +23,7 @@ Tomorrow I hope to put the legs together in an assembly and fix any errors I fin
 
 # Day 0: Idea + Whoops
 **Jun 1, 2026 | Simon**
+**Total time spent: 0 hours**
 
 **What is Isaac?**  
 Isaac will be a walking robot that uses 12 carpentopod linkages to walk.
