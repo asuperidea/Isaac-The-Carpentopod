@@ -45,6 +45,8 @@ Here's my game plan:
 **Footnote**  
 So I kinda deleted this today but I didn't lose anything because I didn't start yet.
 
+![Image of Issac](Images/isaacimage10.webp)
+
 --------------------------------------------------
 
  2
@@ -65,6 +67,8 @@ Designed a sort of "crank" shaft to keep each leg pair on the right offset.
 
 Added these parts into assemblies
 
+![Image of Issac](Images/isaacimage9.webp)
+
 --------------------------------------------------
 
 # Day 2: Cad Updates
@@ -79,6 +83,8 @@ Designed the opposing leg, because each part is identical vertically I can just 
 I combined the first assembly with a made one consisting of a mirrored leg to make a full "leg unit".
 
 Designed a general idea for how I will rotate each pair of legs and keep them in place, III have a main shaft moving through each side of the robot, and. each pair will have a 3d printed bracket of sorts that keeps them offset. III need 3-4 bearings per side so I researched which ones to get, I found some good ones on Amazon that a 22mm in full diameter, and less than 10$ so I can get them with just one grant, perfect for me!
+
+![Image of Issac](Images/isaacimage8.webp)
 
 --------------------------------------------------
 
@@ -99,6 +105,8 @@ I printed way more leg parts, enough to make 8 legs or 3 pairs (That's half the 
 
 **Designed some parts**  
 I designed the beams that keep the backplates together and how those beams fit into the backplates. I also designed the central rotating shaft that powers all 3 leg pairs. (.5 hours)
+
+![Image of Issac](Images/isaacimage7.webp)
 
 --------------------------------------------------
 
@@ -125,6 +133,8 @@ Moving on, here's what and how much I need to print:
 
 I printed a full set of parts 3-4, this took 2 raids out yielded a fine product.
 
+![Image of Issac](Images/isaacimage6.webp)
+
 --------------------------------------------------
 
 # Day 6: My Printer Sucks
@@ -137,6 +147,8 @@ Heres what I did today:
 I have had my A1 Mini for a long time but it hasn't done something like this yet. The first layer is always slipping, that causes the rest of the print to fail. Looking online I tried various fixes like changing the first layer height, bed temperatures, print speeds, and cleaning the nozzle. After asking some people on the slack they recommended I clean the plate and apoly glue, these will be tomorrow!
 
 In more boring detail I attempted to print over ten times. Each attempt had a different mix of possible solutions (ex. speed, heat, layer height). While some prints only had one or two parts get messed up most of them fully failed. I made some physical changes to my printer including cleaning the nozzle, swiping filament, and moving it to a new room to see if that would fix it (it was desperate ink).
+
+![Image of Issac](Images/isaacimage5.webp)
 
 --------------------------------------------------
 
@@ -155,8 +167,9 @@ One of the shaft parts collides with another during rotation, to prevent this I 
 **Exported leg files and printed**  
 I exported the finished leg .stls and pushed them to the repo. I also printed some of their out however I will do the rest tomorrow. (.3 hours)
 
+![Image of Issac](Images/isaacimage4.webp)
+
 --------------------------------------------------
-![Image of Issac](Images/IMG_3495.jpeg)
  4
 
 # Day 12: YES YES YES
@@ -178,6 +191,8 @@ The middle part is all designed, it has two large end plates (had to slightly re
 **Motor electronics**  
 With all the motor parts here I tried to wire up the motors. Learning the new dual motor control board took a second, luckily there are some great youtube videos. After some double checking my arduino, power supply, motors, and motor control were wired up. Writing the code took a while but it seems to work, the issue is the motor just doesn't move, and when I unplug the ground it vibrates, this points to a grounding issue but the day is almost over so ill fix it tomorrow. [1 hour]
 
+![Image of Issac](Images/IMG_3495.jpeg)
+
 --------------------------------------------------
 
 # Day 11: Slow but steady
@@ -198,6 +213,8 @@ I started design on the robots body, the body needs to house both motors, and Ar
 My goal was to finish the robot yesterday but yesterday came and went and I didn't have a finished robot, this was the result of many many things like shipping delays and printer errors but oh well. Now I have a scarier deadline: next Wednesday before I go on vacation, if it isn't done by then this project will be really really delayed and might end too late to turn it in.
 
 The middle design as a WIP
+
+![Image of Issac](Images/isaacimage3.webp)
 
 --------------------------------------------------
 
@@ -236,6 +253,8 @@ Heres what did on July 13:
 **Began to reprint some of the offset shafts**  
 I needed to print all 6 offset shafts because they were messed up by hot glue. At first I tried printing 3 at a time, however this ended up taking too much space when I added the leg parts. I printed one at a time until all 6 were done. (.5 hours)
 
+![Image of Issac](Images/isaacimage2.webp)
+
 --------------------------------------------------
 
 # Day 15: Im Back
@@ -251,6 +270,8 @@ To prepare to undo loose for the PLA glue I summoned idan, while it sure said to
 
 **Readme + Github updates**  
 I reorganised the github and began writing my README file, this is what the hacksctime is.
+
+![Image of Issac](Images/isaacimage1.webp)
 
 --------------------------------------------------
 
