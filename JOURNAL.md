@@ -8,11 +8,7 @@ created_at: "2026-10-25"
 **Disclaimer that I used a tool to convert the html rendered on the macondo page to markdown so there could be some issues**
 **See the [Macondo Project](https://macondo.hackclub.com/projects/7520) for full journals**
 
-![Image of Issac](Images/IMG_3763.jpeg)
-
-# Isaac Project Journal
-
-### Day 1: The start of CAD
+# Day 1: The start of CAD
 **Jun 2, 2026 | Simon**  
 June 2 2026 | Day 1 Journal
 
@@ -20,9 +16,11 @@ Today I designed each on of the parts for the legs (6 in total). The two largest
 
 Tomorrow I hope to put the legs together in an assembly and fix any errors I find.
 
+![Image of Issac](Images/IMG_3763.jpeg)
+
 --------------------------------------------------
 
-### Day 0: Idea + Whoops
+# Day 0: Idea + Whoops
 **Jun 1, 2026 | Simon**
 
 **What is Isaac?**  
@@ -51,7 +49,7 @@ So I kinda deleted this today but I didn't lose anything because I didn't start 
 
  2
 
-### Day 3/4: CAD Changes + Backplate
+# Day 3/4: CAD Changes + Backplate
 **Jun 9, 2026 | Simon**  
 June 8 2026, June 9 2026 | Day 3 and 4 Journal
 
@@ -69,7 +67,7 @@ Added these parts into assemblies
 
 --------------------------------------------------
 
-### Day 2: Cad Updates
+# Day 2: Cad Updates
 **Jun 3, 2026 | Simon**  
 June 3 2026 | Day 2 Journal
 
@@ -84,7 +82,7 @@ Designed a general idea for how I will rotate each pair of legs and keep them in
 
 --------------------------------------------------
 
-### Day 8: Progress is fast
+# Day 8: Progress is fast
 **Jun 14, 2026 | Simon**  
 June 14 | Day 8 Journal
 
@@ -104,7 +102,7 @@ I designed the beams that keep the backplates together and how those beams fit i
 
 --------------------------------------------------
 
-### Day 7: It works
+# Day 7: It works
 **Jun 10, 2026 | Simon**  
 June 10 | Day 7 Journal
 
@@ -129,7 +127,7 @@ I printed a full set of parts 3-4, this took 2 raids out yielded a fine product.
 
 --------------------------------------------------
 
-### Day 6: My Printer Sucks
+# Day 6: My Printer Sucks
 **Jun 22, 2026 | Simon**  
 June 22 | Day 6 Journal
 
@@ -142,7 +140,7 @@ In more boring detail I attempted to print over ten times. Each attempt had a di
 
 --------------------------------------------------
 
-### Day 5: CAD updates + printing.
+# Day 5: CAD updates + printing.
 **Jun 11, 2026 | Simon**  
 June 11 | Day 5 Journal
 
@@ -161,7 +159,7 @@ I exported the finished leg .stls and pushed them to the repo. I also printed so
 ![Image of Issac](Images/IMG_3495.jpeg)
  4
 
-### Day 12: YES YES YES
+# Day 12: YES YES YES
 **Jun 28, 2026 | Simon**  
 June 28 | Day 12 Journal
 
@@ -182,7 +180,7 @@ With all the motor parts here I tried to wire up the motors. Learning the new du
 
 --------------------------------------------------
 
-### Day 11: Slow but steady
+# Day 11: Slow but steady
 **Jun 27, 2026 | Simon**  
 June 27 | Day 11 Journal
 
@@ -203,7 +201,7 @@ The middle design as a WIP
 
 --------------------------------------------------
 
-### Day 9/10: Prints and Delays
+# Day 9/10: Prints and Delays
 **Jun 26, 2026 | Simon**  
 June 25-26 | Day 9-10 Journal
 
@@ -228,7 +226,7 @@ After completing half of the legs I need I printed more leg pieces, my printer w
 
  5
 
-### Day 16: Bad times
+# Day 16: Bad times
 **Jul 13, 2026 | Simon**  
 This journal is about July 13, written on the 15th  
 July 13 | Day 16 Journal
@@ -240,7 +238,7 @@ I needed to print all 6 offset shafts because they were messed up by hot glue. A
 
 --------------------------------------------------
 
-### Day 15: Im Back
+# Day 15: Im Back
 **Jul 12, 2026 | Simon**  
 July 12 | Day 15 Journal
 
@@ -256,7 +254,7 @@ I reorganised the github and began writing my README file, this is what the hack
 
 --------------------------------------------------
 
-### Day 14: On the brink
+# Day 14: On the brink
 **Jun 30, 2026 | Simon**  
 June 30 | Day 14 Journal
 
@@ -273,7 +271,7 @@ I made a slightly modified rotational shaft that connects to the motors I have. 
 
 --------------------------------------------------
 
-### Day 13: More to do, much done
+# Day 13: More to do, much done
 **Jun 29, 2026 | Simon**  
 June 29 | Day 13 Journal
 
@@ -294,7 +292,7 @@ I also saw of a reveal ending up an IR sensor and sender, that I will use to con
 ![Image of Issac](Images/IMG_3767.jpeg)
  6
 
-### Day 19: "Crap"
+# Day 19: "Crap"
 **Jul 17, 2026 | Simon**  
 This journal is about July 16, written on the 17th  
 July 16 | Day 19 Journal
@@ -311,7 +309,7 @@ Unfortunately while I was completing this, a offset shaft on the top of one of t
 
 --------------------------------------------------
 
-### Day 18: Forwards than back
+# Day 18: Forwards than back
 **Jul 17, 2026 | Simon**  
 This journal is about July 15, written on the 17th  
 July 15 | Day 18 Journal
@@ -326,7 +324,7 @@ I added all the middle levels together between the "sandwich pieces", this was a
 
 --------------------------------------------------
 
-### Day 17: One third done, One to go
+# Day 17: One third done, One to go
 **Jul 15, 2026 | Simon**  
 This journal is about July 14, written on the 15th  
 July 14 | Day 17 Journal
@@ -345,7 +343,7 @@ I began to attach leg pieces to their respective offset and rotational shafts us
 
  7
 
-### Day 24: adapting to the motors
+# Day 24: adapting to the motors
 **Jul 28, 2026 | Simon**  
 July 27 | Day 24 Journal  
 Written on 28th for the 27th
@@ -360,7 +358,7 @@ I spent the rest of the time I had messing with the motors and different speeds,
 
 --------------------------------------------------
 
-### Day 23: New Motors
+# Day 23: New Motors
 **Jul 28, 2026 | Simon**  
 July 26 | Day 23 Journal
 
@@ -374,7 +372,7 @@ I hooked the motors again, and slowed them down because they were going too fast
 
 --------------------------------------------------
 
-### Day 22: AHHHHHHHHHHHHHHHHHHHHHHH
+# Day 22: AHHHHHHHHHHHHHHHHHHHHHHH
 **Jul 25, 2026 | Simon**  
 July 25 | Day 22 Journal
 
@@ -390,7 +388,7 @@ To redo this I needed six legs or three leg pairs, I salvaged two from the messe
 
 --------------------------------------------------
 
-### Day 20/21: The finish line is moving
+# Day 20/21: The finish line is moving
 **Jul 18, 2026 | Simon**  
 July 17-18 | Day 20-21 Journal  
 Heres what I did across two days:
@@ -416,7 +414,7 @@ Unfortunately the wires on one motor broke off, so I took a wire from my electro
 
 ![Image of Issac](Images/IMG_3768.jpeg)
 
-### Day 25: Done
+# Day 25: Done
 **Aug 2, 2026 | Simon**  
 August 2 | Day 25 Journal
 
@@ -462,7 +460,7 @@ I wanna move on to other projects but Isaac will remain a possibility of upgradi
 
  9
 
-### Added stuff to repo
+# Added stuff to repo
 **Sep 30, 2026 | Simon**  
 September 30th | Day 27 Journal
 
@@ -475,7 +473,7 @@ Isaac The Carpentopod
 
 --------------------------------------------------
 
-### Day 26: New controls
+# Day 26: New controls
 **Aug 27, 2026 | Simon**  
 August 20th | Day 26 Journal
 
