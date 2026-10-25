@@ -1,9 +1,9 @@
 **Disclaimer that I used a tool to convert the html rendered on the macondo page to markdown so there could be some issues**
 **See the [Macondo Project](https://macondo.hackclub.com/projects/7520) for full journals**
 
-# Isaac Project Journal
+![Image of Issac](Images/IMG_3763.jpeg)
 
-## Journal Pt 1
+# Isaac Project Journal
 
 ### Day 1: The start of CAD
 **Jun 2, 2026 | Simon**  
@@ -42,7 +42,7 @@ So I kinda deleted this today but I didn't lose anything because I didn't start 
 
 --------------------------------------------------
 
-## Journal Pt 2
+ 2
 
 ### Day 3/4: CAD Changes + Backplate
 **Jun 9, 2026 | Simon**  
@@ -76,8 +76,6 @@ I combined the first assembly with a made one consisting of a mirrored leg to ma
 Designed a general idea for how I will rotate each pair of legs and keep them in place, III have a main shaft moving through each side of the robot, and. each pair will have a 3d printed bracket of sorts that keeps them offset. III need 3-4 bearings per side so I researched which ones to get, I found some good ones on Amazon that a 22mm in full diameter, and less than 10$ so I can get them with just one grant, perfect for me!
 
 --------------------------------------------------
-
-## Journal Pt 3
 
 ### Day 8: Progress is fast
 **Jun 14, 2026 | Simon**  
@@ -153,8 +151,8 @@ One of the shaft parts collides with another during rotation, to prevent this I 
 I exported the finished leg .stls and pushed them to the repo. I also printed some of their out however I will do the rest tomorrow. (.3 hours)
 
 --------------------------------------------------
-
-## Journal Pt 4
+![Image of Issac](Images/IMG_3495.jpeg)
+ 4
 
 ### Day 12: YES YES YES
 **Jun 28, 2026 | Simon**  
@@ -217,9 +215,11 @@ Finally I began work on the center part of the robot, this will house my ardinio
 **More Prints!**  
 After completing half of the legs I need I printed more leg pieces, my printer was giving me issues because the g-code I edited somehow reset, I fixed it in bambu studio. I have now printed all the leg parts I need! [.5 hours of actual work]
 
+![Image of Issac](Images/IMG_3765.jpeg)
+
 --------------------------------------------------
 
-## Journal Pt 5
+ 5
 
 ### Day 16: Bad times
 **Jul 13, 2026 | Simon**  
@@ -284,8 +284,8 @@ Yesterday I spent a while working on making the new motors spin. I connected an 
 I also saw of a reveal ending up an IR sensor and sender, that I will use to control motor speed / direction.
 
 --------------------------------------------------
-
-## Journal Pt 6
+![Image of Issac](Images/IMG_3767.jpeg)
+ 6
 
 ### Day 19: "Crap"
 **Jul 17, 2026 | Simon**  
@@ -332,9 +332,11 @@ I printed out some rotational shafts to replace old damaged ones. The prints wen
 **(Re)Constructed a leg third**  
 I began to attach leg pieces to their respective offset and rotational shafts using the PLA glue. PLA glue is powerful and removing it would mean I would need to reprint parts, so I tried to be as careful and precise as possible. Unfortunately on the first glue an offset shaft snapped, I moved on to the other two leg pairs and got them glued while printing a new offset shaft. Finally I glued on the final piece and the third was done! (1 hour)
 
+![Image of Issac](Images/IMG_3763.jpeg)
+
 --------------------------------------------------
 
-## Journal Pt 7
+ 7
 
 ### Day 24: adapting to the motors
 **Jul 28, 2026 | Simon**  
@@ -377,6 +379,8 @@ As I may have mentioned, one of the offset shafts on the end of one of the leg b
 **Redid a leg pair block**  
 To redo this I needed six legs or three leg pairs, I salvaged two from the messed up block. I printed the parts needed for four leg pairs and began to print the tiles that encased them. Unfortunately I messed up two prints, purely my fault, so I ended up wasting time and filament. I also printed three more offset shafts and rotational shafts to use in the new block. I glued the pieces together without any issues and the block works.[~3 hours of printing, 1 of actually doing stuff]
 
+![Image of Issac](Images/IMG_3764.jpeg)
+
 --------------------------------------------------
 
 ### Day 20/21: The finish line is moving
@@ -403,7 +407,7 @@ Unfortunately the wires on one motor broke off, so I took a wire from my electro
 
 --------------------------------------------------
 
-## Journal Pt 8
+![Image of Issac](Images/IMG_3768.jpeg)
 
 ### Day 25: Done
 **Aug 2, 2026 | Simon**  
@@ -449,7 +453,7 @@ I wanna move on to other projects but Isaac will remain a possibility of upgradi
 
 --------------------------------------------------
 
-## Journal Pt 9
+ 9
 
 ### Added stuff to repo
 **Sep 30, 2026 | Simon**  
