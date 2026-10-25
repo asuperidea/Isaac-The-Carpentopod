@@ -290,6 +290,8 @@ I removed the leg portions from the center ends, then connected up the center le
 **Design + attachment of new piece.**  
 I made a slightly modified rotational shaft that connects to the motors I have. When removed the classic shaft and replaced it. This took a while because I had to disassembles the entire leg segment from the body (again) for both sides. [7 hours]
 
+![Image of Issac](Images/isaacimage11.webp)
+
 --------------------------------------------------
 
 # Day 13: More to do, much done
@@ -309,8 +311,9 @@ Yesterday I spent a while working on making the new motors spin. I connected an 
 
 I also saw of a reveal ending up an IR sensor and sender, that I will use to control motor speed / direction.
 
+![Image of Issac](Images/isaacimage12.webp)
+
 --------------------------------------------------
-![Image of Issac](Images/IMG_3767.jpeg)
  6
 
 # Day 19: "Crap"
@@ -328,6 +331,8 @@ I reconstructed the middle by adding hot glue to each of the "levels" so they st
 
 Unfortunately while I was completing this, a offset shaft on the top of one of the leg segments broke. This doesn't affect the other legs but it can let some of the parts slip off. I tried to fix it by gluing a cap of sorts onto the broken end, but I accidentally glued the leg pieces together and had to remove them. Because the glue is so strong I will need to reprint an entire leg segment and re-attach it :(. (.5 hour).
 
+![Image of Issac](Images/IMG_3767.jpeg)
+
 --------------------------------------------------
 
 # Day 18: Forwards than back
@@ -342,6 +347,8 @@ After making the first segment of legs yesterday, I built the second one today. 
 
 **Tried to construct middle**  
 I added all the middle levels together between the "sandwich pieces", this was annoying because tiny defects made it hard to perfectly insert the levels into the groves of the end pieces. I did eventually get it all together but in the process I broke a offset shaft of the first segment I constructed. To remove the broken third I would need to redo the first segment again! (.5 hours)
+
+![Image of Issac](Images/isaacimage13.webp)
 
 --------------------------------------------------
 
@@ -377,6 +384,8 @@ I attached the motors to the dual motor controller and began experimenting with 
 
 I spent the rest of the time I had messing with the motors and different speeds, 65 is the best still. I can't upload videos here but there will be some in the github.
 
+![Image of Issac](Images/isaacimage14.webp)
+
 --------------------------------------------------
 
 # Day 23: New Motors
@@ -390,6 +399,8 @@ I have lost track of how many times ive broken leg blocks but this was super cra
 
 **New code + broken motor**  
 I hooked the motors again, and slowed them down because they were going too fast to mesh right with the gears. But they just don't work. The weight and power needed to spin the legs is too much for these smaller motors to handle and I finally came to this conclusion. My solution is obvious but I didn't want to do it out of worry that it might extend this project longer: new, more powerful motors. The motors I got were all metal TT gearbox motors, they work with the dual controller and power a bunch of gears that increase torque before outputting.
+
+![Image of Issac](Images/isaacimage15.webp)
 
 --------------------------------------------------
 
@@ -431,9 +442,9 @@ Gears can increase torque! This was my savior!!! Just use a smaller gear powerin
 *Soldering motors back*  
 Unfortunately the wires on one motor broke off, so I took a wire from my electronics kit and soldered it onto the motor. I was a little sacred this wouldn't work but the motor spins just fine! [.5 hours]
 
---------------------------------------------------
+![Image of Issac](Images/isaacimage16.webp)
 
-![Image of Issac](Images/IMG_3768.jpeg)
+--------------------------------------------------
 
 # Day 25: Done
 **Aug 2, 2026 | Simon**  
@@ -477,6 +488,8 @@ While Isaac is very good at moving and completes my goal for this project, heres
 **V2 Plan**  
 I wanna move on to other projects but Isaac will remain a possibility of upgrading him. I wanna wait a bit so I don't burn out fast but I do want to upgrade him sometime
 
+![Image of Issac](Images/IMG_3768.jpeg)
+
 --------------------------------------------------
 
  9
@@ -491,6 +504,8 @@ Anyway hoping to get my portfolio out man its been a while.
 Thank you review team!
 
 Isaac The Carpentopod
+
+![Image of Issac](Images/isaacimage17.webp)
 
 --------------------------------------------------
 
@@ -520,3 +535,5 @@ The new vids of Isaac are also listed as the demo and on the repo.
 
 **Moving forward:**  
 In least blocks done with Isaac, but took so much work and is not in the best shape. If I do make a "v2" it will probably have no remote.
+
+![Image of Issac](Images/isaacimage18.webp)
