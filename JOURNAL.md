@@ -10,6 +10,7 @@ created_at: "2026-10-25"
 
 # Day 1: The start of CAD
 **Jun 2, 2026 | Simon**  
+**Total time spent: 1 hours**
 June 2 2026 | Day 1 Journal
 
 Today I designed each on of the parts for the legs (6 in total). The two largest parts are 2 CM wide, the entire leg is about 20 CM tall.
@@ -52,6 +53,7 @@ So I kinda deleted this today but I didn't lose anything because I didn't start 
  2
 
 # Day 3/4: CAD Changes + Backplate
+**Total time spent: 1.7 hours**
 **Jun 9, 2026 | Simon**  
 June 8 2026, June 9 2026 | Day 3 and 4 Journal
 
@@ -72,7 +74,8 @@ Added these parts into assemblies
 --------------------------------------------------
 
 # Day 2: Cad Updates
-**Jun 3, 2026 | Simon**  
+**Jun 3, 2026 | Simon**
+**Total time spent: 1.5 hours**
 June 3 2026 | Day 2 Journal
 
 **Today:**  
@@ -89,6 +92,7 @@ Designed a general idea for how I will rotate each pair of legs and keep them in
 --------------------------------------------------
 
 # Day 8: Progress is fast
+**Total time spent: 3 hours**
 **Jun 14, 2026 | Simon**  
 June 14 | Day 8 Journal
 
@@ -112,6 +116,7 @@ I designed the beams that keep the backplates together and how those beams fit i
 
 # Day 7: It works
 **Jun 10, 2026 | Simon**  
+**Total time spent: 3 hours**
 June 10 | Day 7 Journal
 
 Thanks to some very nice people in the slack my printer is back to speed! Also proved I can start a print, stop it, reset another print, and finish it. This is important because I will be keeping the smaller "bones" or "bars" in place by adding them to the print of a "tile". I hope that makes sense, it does for real. I also got some red filament which I will use for the tiles as Isaac has some color!
@@ -138,6 +143,7 @@ I printed a full set of parts 3-4, this took 2 raids out yielded a fine product.
 --------------------------------------------------
 
 # Day 6: My Printer Sucks
+**Total time spent: 4 hours**
 **Jun 22, 2026 | Simon**  
 June 22 | Day 6 Journal
 
@@ -153,7 +159,8 @@ In more boring detail I attempted to print over ten times. Each attempt had a di
 --------------------------------------------------
 
 # Day 5: CAD updates + printing.
-**Jun 11, 2026 | Simon**  
+**Jun 11, 2026 | Simon**
+**Total time spent: 1.2 hours**
 June 11 | Day 5 Journal
 
 Heres what I did today:
@@ -174,6 +181,7 @@ I exported the finished leg .stls and pushed them to the repo. I also printed so
 
 # Day 12: YES YES YES
 **Jun 28, 2026 | Simon**  
+**Total time spent: 3.5 hours**
 June 28 | Day 12 Journal
 
 The days before have been slow but now I progress can really really feel!
@@ -197,6 +205,7 @@ With all the motor parts here I tried to wire up the motors. Learning the new du
 
 # Day 11: Slow but steady
 **Jun 27, 2026 | Simon**  
+**Total time spent: 2 hours**
 June 27 | Day 11 Journal
 
 Heres what I did today:
@@ -220,6 +229,7 @@ The middle design as a WIP
 
 # Day 9/10: Prints and Delays
 **Jun 26, 2026 | Simon**  
+**Total time spent: 3 hours**
 June 25-26 | Day 9-10 Journal
 
 Today and Yesterday I:
@@ -245,6 +255,7 @@ After completing half of the legs I need I printed more leg pieces, my printer w
 
 # Day 16: Bad times
 **Jul 13, 2026 | Simon**  
+**Total time spent: 0.5 hours**
 This journal is about July 13, written on the 15th  
 July 13 | Day 16 Journal
 
@@ -259,6 +270,7 @@ I needed to print all 6 offset shafts because they were messed up by hot glue. A
 
 # Day 15: Im Back
 **Jul 12, 2026 | Simon**  
+**Total time spent: 0.5 hours**
 July 12 | Day 15 Journal
 
 After a vacation heres what I did today:
@@ -277,6 +289,7 @@ I reorganised the github and began writing my README file, this is what the hack
 
 # Day 14: On the brink
 **Jun 30, 2026 | Simon**  
+**Total time spent: 1.9 hours**
 June 30 | Day 14 Journal
 
 Heres what I did today:
@@ -296,6 +309,7 @@ I made a slightly modified rotational shaft that connects to the motors I have. 
 
 # Day 13: More to do, much done
 **Jun 29, 2026 | Simon**  
+**Total time spent: 1.2 hours**
 June 29 | Day 13 Journal
 
 Heres what I did today:
@@ -318,6 +332,7 @@ I also saw of a reveal ending up an IR sensor and sender, that I will use to con
 
 # Day 19: "Crap"
 **Jul 17, 2026 | Simon**  
+**Total time spent: 1.8 hours**
 This journal is about July 16, written on the 17th  
 July 16 | Day 19 Journal
 
@@ -337,6 +352,7 @@ Unfortunately while I was completing this, a offset shaft on the top of one of t
 
 # Day 18: Forwards than back
 **Jul 17, 2026 | Simon**  
+**Total time spent: 1 hours**
 This journal is about July 15, written on the 17th  
 July 15 | Day 18 Journal
 
@@ -353,6 +369,7 @@ I added all the middle levels together between the "sandwich pieces", this was a
 --------------------------------------------------
 
 # Day 17: One third done, One to go
+**Total time spent: 1 hours**
 **Jul 15, 2026 | Simon**  
 This journal is about July 14, written on the 15th  
 July 14 | Day 17 Journal
@@ -372,6 +389,7 @@ I began to attach leg pieces to their respective offset and rotational shafts us
  7
 
 # Day 24: adapting to the motors
+**Total time spent: 0.9 hours**
 **Jul 28, 2026 | Simon**  
 July 27 | Day 24 Journal  
 Written on 28th for the 27th
@@ -389,7 +407,8 @@ I spent the rest of the time I had messing with the motors and different speeds,
 --------------------------------------------------
 
 # Day 23: New Motors
-**Jul 28, 2026 | Simon**  
+**Jul 28, 2026 | Simon** 
+**Total time spent: 0.5 hours**
 July 26 | Day 23 Journal
 
 Heres what I did today:
@@ -406,6 +425,7 @@ I hooked the motors again, and slowed them down because they were going too fast
 
 # Day 22: AHHHHHHHHHHHHHHHHHHHHHHH
 **Jul 25, 2026 | Simon**  
+**Total time spent: 2 hours**
 July 25 | Day 22 Journal
 
 Heres what I did today:
@@ -422,6 +442,7 @@ To redo this I needed six legs or three leg pairs, I salvaged two from the messe
 
 # Day 20/21: The finish line is moving
 **Jul 18, 2026 | Simon**  
+**Total time spent: 2.5 hours**
 July 17-18 | Day 20-21 Journal  
 Heres what I did across two days:
 
@@ -448,6 +469,7 @@ Unfortunately the wires on one motor broke off, so I took a wire from my electro
 
 # Day 25: Done
 **Aug 2, 2026 | Simon**  
+**Total time spent: 1.5 hours**
 August 2 | Day 25 Journal
 
 Heres what I did today:
@@ -496,6 +518,7 @@ I wanna move on to other projects but Isaac will remain a possibility of upgradi
 
 # Added stuff to repo
 **Sep 30, 2026 | Simon**  
+**Total time spent: 0.3 hours**
 September 30th | Day 27 Journal
 
 Been a while but I wanted to add images and assembly step files. Did that in 3D Files/Assemblies so it should be all set now. And I guess images in an imgs folder weren't enough so I added them to the readme.  
@@ -511,6 +534,7 @@ Isaac The Carpentopod
 
 # Day 26: New controls
 **Aug 27, 2026 | Simon**  
+**Total time spent: 1 hours**
 August 20th | Day 26 Journal
 
 **Recap on last ship**  
