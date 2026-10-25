@@ -1,3 +1,10 @@
+---
+title: "Isaac The Carpentopod"
+author: "Simon Crystal"
+description: "Walking Robot"
+created_at: "2026-10-25"
+---
+
 **Disclaimer that I used a tool to convert the html rendered on the macondo page to markdown so there could be some issues**
 **See the [Macondo Project](https://macondo.hackclub.com/projects/7520) for full journals**
 
