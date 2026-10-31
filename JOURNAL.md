@@ -568,3 +568,5 @@ In least blocks done with Isaac, but took so much work and is not in the best sh
 **Oct 31, 2026 | Simon**
 **Total time spent: 0.2 hours**
 Just added the wiring diagram to readme even though it was in the /misc folder already.
+
+![Wiring](Images/wiring.svg)
