@@ -562,3 +562,9 @@ The new vids of Isaac are also listed as the demo and on the repo.
 In least blocks done with Isaac, but took so much work and is not in the best shape. If I do make a "v2" it will probably have no remote.
 
 ![Image of Issac](Images/isaacimage18.webp)
+
+------------------------------------------
+# Day 27: What?
+**Oct 31, 2026 | Simon**
+**Total time spent: 0.2 hours**
+Just added the wiring diagram to readme even though it was in the /misc folder already.
