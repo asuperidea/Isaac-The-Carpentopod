@@ -23,6 +23,8 @@ While Isaac was mostly built as designed, some things were changed or adapted du
 ## Hackclub
 Isaac was built for the [Hackclub](https://hackclub.com/) program [Macondo](https://macondo.hackclub.com/). For previous projects, Hackclub provided me with funding and an amazing community. You can see [**Isaac on Hackclub here**](https://macondo.hackclub.com/projects/7520).
 
+Isaac was moved to [Hackclub Forge](https://forge.hackclub.com/) in October of 2026. [Isaac on Forge](https://forge.hackclub.com/projects/4168)
+
 ## Watch Isaac
 See the following linsk to watch Isaac move!
 - https://youtube.com/shorts/_IkzzDk3RVs 
@@ -55,6 +57,7 @@ See the following linsk to watch Isaac move!
 [Software](/Software/) Contains all the code that the arduino runs
 [Journals](/Journals/) Contains every Hackclub journal entry I made (markdown files)
 [Images](/Images/) Contains images of Isaac
+[Guide](/Guide/) Contains BOM, Wiring, and Guide
 
 # About Me
 My name is [Simon](https://simoncrystal.dev), I am a rising 10th grader (Class of '29) in North Carolina, United States. I built Isaac to challange myself and to get into Hackclub Macondos Columbia Hackathon, an amazing oppurtunity.

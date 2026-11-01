@@ -570,3 +570,12 @@ In least blocks done with Isaac, but took so much work and is not in the best sh
 Just added the wiring diagram to readme even though it was in the /misc folder already.
 
 ![Wiring](Images/wiring.svg)
+
+------------------------------------------
+
+# Day 28: Guide Made
+**Oct 31, 2026 | Simon**
+**Total time spent: 0.7 hours**
+Made the guide README file and guide folder (replacing misc). Also fixed the images broken in the readme.
+
+![Guide in VSCODE](Images/isaac_vscode.png)
