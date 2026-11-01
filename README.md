@@ -60,5 +60,5 @@ See the following linsk to watch Isaac move!
 My name is [Simon](https://simoncrystal.dev), I am a rising 10th grader (Class of '29) in North Carolina, United States. I built Isaac to challange myself and to get into Hackclub Macondos Columbia Hackathon, an amazing oppurtunity.
 
 
-![Issac](/Images/IMG_3767.jpg)
-![Issac](/Images/IMG_3765.jpg)
+![Issac](/Images/IMG_3767.jpeg)
+![Issac](/Images/IMG_3765.jpeg)
