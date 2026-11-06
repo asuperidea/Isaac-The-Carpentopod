@@ -579,3 +579,12 @@ Just added the wiring diagram to readme even though it was in the /misc folder a
 Made the guide README file and guide folder (replacing misc). Also fixed the images broken in the readme.
 
 ![Guide in VSCODE](Images/isaac_vscode.png)
+
+------------------------------------------
+
+# Day 29: Do People Look at my repo????
+**Oct 31, 2026 | Simon**
+**Total time spent: 0.1 hours**
+There is an assembly guide but it got rejected for not having one???? Linked it at top of readme oml.
+
+![Guide in VSCODE](Images/isaac_vscode.png)
