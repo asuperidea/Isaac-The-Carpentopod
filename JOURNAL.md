@@ -8,19 +8,6 @@ created_at: "2026-10-25"
 **Disclaimer that I used a tool to convert the html rendered on the macondo page to markdown so there could be some issues**
 **See the [Macondo Project](https://macondo.hackclub.com/projects/7520) for full journals**
 
-# Day 1: The start of CAD
-**Jun 2, 2026 | Simon**  
-**Total time spent: 1 hours**
-June 2 2026 | Day 1 Journal
-
-Today I designed each on of the parts for the legs (6 in total). The two largest parts are 2 CM wide, the entire leg is about 20 CM tall.
-
-Tomorrow I hope to put the legs together in an assembly and fix any errors I find.
-
-![Image of Issac](Images/IMG_3763.jpeg)
-
---------------------------------------------------
-
 # Day 0: Idea + Whoops
 **Jun 1, 2026 | Simon**
 **Total time spent: 0 hours**
@@ -47,11 +34,40 @@ Here's my game plan:
 **Footnote**  
 So I kinda deleted this today but I didn't lose anything because I didn't start yet.
 
-![Image of Issac](Images/isaacimage10.webp)
+![Image of Issac](Images/journals/journal2.webp)
 
 --------------------------------------------------
 
- 2
+# Day 1: The start of CAD
+**Jun 2, 2026 | Simon**  
+**Total time spent: 1 hours**
+June 2 2026 | Day 1 Journal
+
+Today I designed each on of the parts for the legs (6 in total). The two largest parts are 2 CM wide, the entire leg is about 20 CM tall.
+
+Tomorrow I hope to put the legs together in an assembly and fix any errors I find.
+
+![Image of Issac](Images/journals/journal1.webp)
+
+--------------------------------------------------
+
+# Day 2: Cad Updates
+**Jun 3, 2026 | Simon**
+**Total time spent: 1.5 hours**
+June 3 2026 | Day 2 Journal
+
+**Today:**  
+Put all the pieces I made yesterday into one assembly, It took a lot of confusion to realize I had to fasten the pieces using revolute mates, not normal fastens, so each piece could spin, allowing the linkage to work.
+
+Designed the opposing leg, because each part is identical vertically I can just rotate them. However I needed to redesign the dimensions of two parts to allow the opposing leg to occupy the same spot, I added the thinner design to Bambu Studio to see if there would be enough layers and there is!
+
+I combined the first assembly with a made one consisting of a mirrored leg to make a full "leg unit".
+
+Designed a general idea for how I will rotate each pair of legs and keep them in place, III have a main shaft moving through each side of the robot, and. each pair will have a 3d printed bracket of sorts that keeps them offset. III need 3-4 bearings per side so I researched which ones to get, I found some good ones on Amazon that a 22mm in full diameter, and less than 10$ so I can get them with just one grant, perfect for me!
+
+![Image of Issac](Images/journals/journal4.webp)
+
+--------------------------------------------------
 
 # Day 3/4: CAD Changes + Backplate
 **Total time spent: 1.7 hours**
@@ -70,48 +86,43 @@ Designed a sort of "crank" shaft to keep each leg pair on the right offset.
 
 Added these parts into assemblies
 
-![Image of Issac](Images/isaacimage9.webp)
+![Image of Issac](Images/journals/journal3.webp)
 
 --------------------------------------------------
 
-# Day 2: Cad Updates
-**Jun 3, 2026 | Simon**
-**Total time spent: 1.5 hours**
-June 3 2026 | Day 2 Journal
+# Day 5: CAD updates + printing.
+**Jun 11, 2026 | Simon**
+**Total time spent: 1.2 hours**
+June 11 | Day 5 Journal
 
-**Today:**  
-Put all the pieces I made yesterday into one assembly, It took a lot of confusion to realize I had to fasten the pieces using revolute mates, not normal fastens, so each piece could spin, allowing the linkage to work.
+Heres what I did today:
 
-Designed the opposing leg, because each part is identical vertically I can just rotate them. However I needed to redesign the dimensions of two parts to allow the opposing leg to occupy the same spot, I added the thinner design to Bambu Studio to see if there would be enough layers and there is!
+**Backplate now has pegs to slot on parts**  
+A joint on the upper tie needs to be in a fixed spot but rotate. To achieve this I added 7mm pegs to the backplate and redesigned the upper tile so that it rotates around the peg. (.8 Hours)
 
-I combined the first assembly with a made one consisting of a mirrored leg to make a full "leg unit".
+**Added clearance to a parts**  
+One of the shaft parts collides with another during rotation, to prevent this I added space on both parts so that they can still function but not collide. Setting the spacing right took time because I needed to prevent collisions but also needed to keep structural support. (.5 hours)
 
-Designed a general idea for how I will rotate each pair of legs and keep them in place, III have a main shaft moving through each side of the robot, and. each pair will have a 3d printed bracket of sorts that keeps them offset. III need 3-4 bearings per side so I researched which ones to get, I found some good ones on Amazon that a 22mm in full diameter, and less than 10$ so I can get them with just one grant, perfect for me!
+**Exported leg files and printed**  
+I exported the finished leg .stls and pushed them to the repo. I also printed some of their out however I will do the rest tomorrow. (.3 hours)
 
-![Image of Issac](Images/isaacimage8.webp)
+![Image of Issac](Images/journals/journal5.webp)
 
 --------------------------------------------------
 
-# Day 8: Progress is fast
-**Total time spent: 3 hours**
-**Jun 14, 2026 | Simon**  
-June 14 | Day 8 Journal
+# Day 6: My Printer Sucks
+**Total time spent: 4 hours**
+**Jun 22, 2026 | Simon**  
+June 22 | Day 6 Journal
 
-**Today:**
+Heres what I did today:
 
-**Ordered motors + bearings**  
-My $20 hardware project grant was approved last night, so I used the funds to buy:
-- 20 Small Bearings
-- 4 Motors (I only need 2)
-- 1 dual motor controller board for 4 disks (First I had to figure out what motor I needed, a 2-6v DC motor will work because it can spin both directions at different speeds. I also needed a controller as these motors require more than just an Arduino. I knew what bearings I needed for a while, see day 2 journal). I have a motor in my electronics kit I will use to practice and get the software down before anything is delivered. ($30 total)
+**Tried to fix my printer**  
+I have had my A1 Mini for a long time but it hasn't done something like this yet. The first layer is always slipping, that causes the rest of the print to fail. Looking online I tried various fixes like changing the first layer height, bed temperatures, print speeds, and cleaning the nozzle. After asking some people on the slack they recommended I clean the plate and apoly glue, these will be tomorrow!
 
-**Printed more parts**  
-I printed way more leg parts, enough to make 8 legs or 3 pairs (That's half the half). These prints mostly went well, however a few parts got messed up due to lack of supports :(, I made 4 leg pairs. Once I get the bearings I can road test my design! (The printing took around 6 hours but I was only doing stuff like taking off supports, monitoring the first layer, designing in the slicer, cleaning off the bed, trying to fix parts, keeping inventory, and more miscellaneous tasks for 2).
+In more boring detail I attempted to print over ten times. Each attempt had a different mix of possible solutions (ex. speed, heat, layer height). While some prints only had one or two parts get messed up most of them fully failed. I made some physical changes to my printer including cleaning the nozzle, swiping filament, and moving it to a new room to see if that would fix it (it was desperate ink).
 
-**Designed some parts**  
-I designed the beams that keep the backplates together and how those beams fit into the backplates. I also designed the central rotating shaft that powers all 3 leg pairs. (.5 hours)
-
-![Image of Issac](Images/isaacimage7.webp)
+![Image of Issac](Images/journals/journal6.webp)
 
 --------------------------------------------------
 
@@ -139,92 +150,30 @@ Moving on, here's what and how much I need to print:
 
 I printed a full set of parts 3-4, this took 2 raids out yielded a fine product.
 
-![Image of Issac](Images/isaacimage6.webp)
+![Image of Issac](Images/journals/journal7.webp)
 
 --------------------------------------------------
 
-# Day 6: My Printer Sucks
-**Total time spent: 4 hours**
-**Jun 22, 2026 | Simon**  
-June 22 | Day 6 Journal
+# Day 8: Progress is fast
+**Total time spent: 3 hours**
+**Jun 14, 2026 | Simon**  
+June 14 | Day 8 Journal
 
-Heres what I did today:
+**Today:**
 
-**Tried to fix my printer**  
-I have had my A1 Mini for a long time but it hasn't done something like this yet. The first layer is always slipping, that causes the rest of the print to fail. Looking online I tried various fixes like changing the first layer height, bed temperatures, print speeds, and cleaning the nozzle. After asking some people on the slack they recommended I clean the plate and apoly glue, these will be tomorrow!
+**Ordered motors + bearings**  
+My $20 hardware project grant was approved last night, so I used the funds to buy:
+- 20 Small Bearings
+- 4 Motors (I only need 2)
+- 1 dual motor controller board for 4 disks (First I had to figure out what motor I needed, a 2-6v DC motor will work because it can spin both directions at different speeds. I also needed a controller as these motors require more than just an Arduino. I knew what bearings I needed for a while, see day 2 journal). I have a motor in my electronics kit I will use to practice and get the software down before anything is delivered. ($30 total)
 
-In more boring detail I attempted to print over ten times. Each attempt had a different mix of possible solutions (ex. speed, heat, layer height). While some prints only had one or two parts get messed up most of them fully failed. I made some physical changes to my printer including cleaning the nozzle, swiping filament, and moving it to a new room to see if that would fix it (it was desperate ink).
+**Printed more parts**  
+I printed way more leg parts, enough to make 8 legs or 3 pairs (That's half the half). These prints mostly went well, however a few parts got messed up due to lack of supports :(, I made 4 leg pairs. Once I get the bearings I can road test my design! (The printing took around 6 hours but I was only doing stuff like taking off supports, monitoring the first layer, designing in the slicer, cleaning off the bed, trying to fix parts, keeping inventory, and more miscellaneous tasks for 2).
 
-![Image of Issac](Images/isaacimage5.webp)
+**Designed some parts**  
+I designed the beams that keep the backplates together and how those beams fit into the backplates. I also designed the central rotating shaft that powers all 3 leg pairs. (.5 hours)
 
---------------------------------------------------
-
-# Day 5: CAD updates + printing.
-**Jun 11, 2026 | Simon**
-**Total time spent: 1.2 hours**
-June 11 | Day 5 Journal
-
-Heres what I did today:
-
-**Backplate now has pegs to slot on parts**  
-A joint on the upper tie needs to be in a fixed spot but rotate. To achieve this I added 7mm pegs to the backplate and redesigned the upper tile so that it rotates around the peg. (.8 Hours)
-
-**Added clearance to a parts**  
-One of the shaft parts collides with another during rotation, to prevent this I added space on both parts so that they can still function but not collide. Setting the spacing right took time because I needed to prevent collisions but also needed to keep structural support. (.5 hours)
-
-**Exported leg files and printed**  
-I exported the finished leg .stls and pushed them to the repo. I also printed some of their out however I will do the rest tomorrow. (.3 hours)
-
-![Image of Issac](Images/isaacimage4.webp)
-
---------------------------------------------------
- 4
-
-# Day 12: YES YES YES
-**Jun 28, 2026 | Simon**  
-**Total time spent: 3.5 hours**
-June 28 | Day 12 Journal
-
-The days before have been slow but now I progress can really really feel!
-
-Heres what I did today:
-
-**More prints + glue!**  
-All of the backplates are printed (for one side at least) so I got to connecting legs to shafts. The original plan was to use superglue to attach the parts however the glue just doesn't work well on PLA, it didn't stick and didn't handle rotation at all. Between cleaning off the parts and holding them together again and again the superglue wasted an hour of my life but hey I can log it! After the fourth unsuccessful superglueing I used a hot glue gun and that worked great! Connected the other two legs was mostly easy but I had to redo them as they weren't offset by 60 degrees, this is needed so a leg is always on the ground. [1.5 hours]
-
-I also printed the structural beam that connects all 3 leg pairs + backplates together.
-
-**Center is done!**  
-The middle part is all designed, it has two large end plates (had to slightly redesign as they were to big to print). The plates sandwich four "levels" that will hold the Arduino, batteries, and motors. Two large side plates slide in allowing for easy access to electronics and to keep the robot more clean. "ISAAC" is wrote on one of the plates, the letters will be printed in red to match the legs. [1 hour]
-
-**Motor electronics**  
-With all the motor parts here I tried to wire up the motors. Learning the new dual motor control board took a second, luckily there are some great youtube videos. After some double checking my arduino, power supply, motors, and motor control were wired up. Writing the code took a while but it seems to work, the issue is the motor just doesn't move, and when I unplug the ground it vibrates, this points to a grounding issue but the day is almost over so ill fix it tomorrow. [1 hour]
-
-![Image of Issac](Images/IMG_3495.jpeg)
-
---------------------------------------------------
-
-# Day 11: Slow but steady
-**Jun 27, 2026 | Simon**  
-**Total time spent: 2 hours**
-June 27 | Day 11 Journal
-
-Heres what I did today:
-
-**New Prints!**  
-I Have printed the first 3 backplates, while inserting the bearing was easy the printer did mess up twice, making it impossible for me to put the bearing in :|. I printed an offset shaft and attached a leg pair to it, the print was a little shaky (like literally all the loose parts were shaking around) but it worked out fine. The two prints that messed up led me on a wild goose chase to fix the issue which was I selected the wrong layer to pause at, too late to insert the bearing. (.8 hours)
-
-**More Design**  
-I redesigned the rotation shafts to be a little wider, after some testing these will have to print horizontally to preserve the hexagons. (.2 hours)
-
-I started design on the robots body, the body needs to house both motors, and Arduino, and batteries while allowing wires to be wired across it. It will be a bit wider and taller than the backplates. I also got more batteries to power both the motor and arduino because I only had one and it wasn't rechargeable. [1 hour]
-
-**Goals moving forward**  
-My goal was to finish the robot yesterday but yesterday came and went and I didn't have a finished robot, this was the result of many many things like shipping delays and printer errors but oh well. Now I have a scarier deadline: next Wednesday before I go on vacation, if it isn't done by then this project will be really really delayed and might end too late to turn it in.
-
-The middle design as a WIP
-
-![Image of Issac](Images/isaacimage3.webp)
+![Image of Issac](Images/journals/journal8.webp)
 
 --------------------------------------------------
 
@@ -248,63 +197,55 @@ Finally I began work on the center part of the robot, this will house my ardinio
 **More Prints!**  
 After completing half of the legs I need I printed more leg pieces, my printer was giving me issues because the g-code I edited somehow reset, I fixed it in bambu studio. I have now printed all the leg parts I need! [.5 hours of actual work]
 
-![Image of Issac](Images/IMG_3765.jpeg)
+![Image of Issac](Images/journals/journal9.webp)
 
 --------------------------------------------------
 
- 5
-
-# Day 16: Bad times
-**Jul 13, 2026 | Simon**  
-**Total time spent: 0.5 hours**
-This journal is about July 13, written on the 15th  
-July 13 | Day 16 Journal
-
-Heres what did on July 13:
-
-**Began to reprint some of the offset shafts**  
-I needed to print all 6 offset shafts because they were messed up by hot glue. At first I tried printing 3 at a time, however this ended up taking too much space when I added the leg parts. I printed one at a time until all 6 were done. (.5 hours)
-
-![Image of Issac](Images/isaacimage2.webp)
-
---------------------------------------------------
-
-# Day 15: Im Back
-**Jul 12, 2026 | Simon**  
-**Total time spent: 0.5 hours**
-July 12 | Day 15 Journal
-
-After a vacation heres what I did today:
-
-**Disassembly**  
-The biggest issue with Isaac is that he is connected with flimsy hot glue. While it is fast, hot glue isn't strong enough for the bots... One vacation I ordered some PLA glue, and this stuff is amazing! I tested on some scrap PLA and it is so strong I believe it will give Isaac the final boost he needs to cross the finish line.
-
-To prepare to undo loose for the PLA glue I summoned idan, while it sure said to use my pro genuine vanity vanish, I believe this is necessary. I also began repriting the rotation shafts as the original ones were damaged by hot glue. [2 hrs]
-
-**Readme + Github updates**  
-I reorganised the github and began writing my README file, this is what the hacksctime is.
-
-![Image of Issac](Images/isaacimage1.webp)
-
---------------------------------------------------
-
-# Day 14: On the brink
-**Jun 30, 2026 | Simon**  
-**Total time spent: 1.9 hours**
-June 30 | Day 14 Journal
+# Day 11: Slow but steady
+**Jun 27, 2026 | Simon**  
+**Total time spent: 2 hours**
+June 27 | Day 11 Journal
 
 Heres what I did today:
 
-**Both motors spin w/ IR**  
-I recharged the batteries overnight and after some nudging of wires both motors connected to the L298N spin at the speeds I set. I followed a tutorial that came with my electronics kit to fully set up and send signal via the IR receiver from a remote. The C++ code uses the IRremote library to detect what is being sent. Then I see if the signal I received matches the signals for the 0, 1, or 3 buttons, if it does I speed up / stop the motors depending on what it takes. Currently O turns 0 off, 1 turns it on, and 3 turns it to reverse. [1.5 hours]
+**New Prints!**  
+I Have printed the first 3 backplates, while inserting the bearing was easy the printer did mess up twice, making it impossible for me to put the bearing in :|. I printed an offset shaft and attached a leg pair to it, the print was a little shaky (like literally all the loose parts were shaking around) but it worked out fine. The two prints that messed up led me on a wild goose chase to fix the issue which was I selected the wrong layer to pause at, too late to insert the bearing. (.8 hours)
 
-**Redone center**  
-I removed the leg portions from the center ends, then connected up the center levels to the ends and reattached the legs. Let me construct the center without sliding damage to the legs and not having to reach around the legs. [2 hours]
+**More Design**  
+I redesigned the rotation shafts to be a little wider, after some testing these will have to print horizontally to preserve the hexagons. (.2 hours)
 
-**Design + attachment of new piece.**  
-I made a slightly modified rotational shaft that connects to the motors I have. When removed the classic shaft and replaced it. This took a while because I had to disassembles the entire leg segment from the body (again) for both sides. [7 hours]
+I started design on the robots body, the body needs to house both motors, and Arduino, and batteries while allowing wires to be wired across it. It will be a bit wider and taller than the backplates. I also got more batteries to power both the motor and arduino because I only had one and it wasn't rechargeable. [1 hour]
 
-![Image of Issac](Images/isaacimage11.webp)
+**Goals moving forward**  
+My goal was to finish the robot yesterday but yesterday came and went and I didn't have a finished robot, this was the result of many many things like shipping delays and printer errors but oh well. Now I have a scarier deadline: next Wednesday before I go on vacation, if it isn't done by then this project will be really really delayed and might end too late to turn it in.
+
+The middle design as a WIP
+
+![Image of Issac](Images/journals/journal11.webp)
+
+--------------------------------------------------
+
+# Day 12: YES YES YES
+**Jun 28, 2026 | Simon**  
+**Total time spent: 3.5 hours**
+June 28 | Day 12 Journal
+
+The days before have been slow but now I progress can really really feel!
+
+Heres what I did today:
+
+**More prints + glue!**  
+All of the backplates are printed (for one side at least) so I got to connecting legs to shafts. The original plan was to use superglue to attach the parts however the glue just doesn't work well on PLA, it didn't stick and didn't handle rotation at all. Between cleaning off the parts and holding them together again and again the superglue wasted an hour of my life but hey I can log it! After the fourth unsuccessful superglueing I used a hot glue gun and that worked great! Connected the other two legs was mostly easy but I had to redo them as they weren't offset by 60 degrees, this is needed so a leg is always on the ground. [1.5 hours]
+
+I also printed the structural beam that connects all 3 leg pairs + backplates together.
+
+**Center is done!**  
+The middle part is all designed, it has two large end plates (had to slightly redesign as they were to big to print). The plates sandwich four "levels" that will hold the Arduino, batteries, and motors. Two large side plates slide in allowing for easy access to electronics and to keep the robot more clean. "ISAAC" is wrote on one of the plates, the letters will be printed in red to match the legs. [1 hour]
+
+**Motor electronics**  
+With all the motor parts here I tried to wire up the motors. Learning the new dual motor control board took a second, luckily there are some great youtube videos. After some double checking my arduino, power supply, motors, and motor control were wired up. Writing the code took a while but it seems to work, the issue is the motor just doesn't move, and when I unplug the ground it vibrates, this points to a grounding issue but the day is almost over so ill fix it tomorrow. [1 hour]
+
+![Image of Issac](Images/journals/journal12.png)
 
 --------------------------------------------------
 
@@ -326,46 +267,60 @@ Yesterday I spent a while working on making the new motors spin. I connected an 
 
 I also saw of a reveal ending up an IR sensor and sender, that I will use to control motor speed / direction.
 
-![Image of Issac](Images/isaacimage12.webp)
-
---------------------------------------------------
- 6
-
-# Day 19: "Crap"
-**Jul 17, 2026 | Simon**  
-**Total time spent: 1.8 hours**
-This journal is about July 16, written on the 17th  
-July 16 | Day 19 Journal
-
-Heres what I did on July 16th:
-
-**Shafts reprint**  
-I printed 3 rotational shafts and attached each leg pair on the broken third to a new offset shaft. I then attached these together with glue. I found that gluing them before inserting into the backplate works the best. There were some hiccups with the gluing, parts not sticking or being on at an angle, however no reprinting was needed and every issue was resolved. 1.75 hours]
-
-**Middle assembly**  
-I reconstructed the middle by adding hot glue to each of the "levels" so they stay in place. These shelves are where the electronics sit. I also added each of the leg segments to the middle, I attached them with hot glue so they could be removed if needed. I then added in the electronics and hot glued the motors into the leg things.
-
-Unfortunately while I was completing this, a offset shaft on the top of one of the leg segments broke. This doesn't affect the other legs but it can let some of the parts slip off. I tried to fix it by gluing a cap of sorts onto the broken end, but I accidentally glued the leg pieces together and had to remove them. Because the glue is so strong I will need to reprint an entire leg segment and re-attach it :(. (.5 hour).
-
-![Image of Issac](Images/IMG_3767.jpeg)
+![Image of Issac](<Images/IMG 3727.jpg>)
 
 --------------------------------------------------
 
-# Day 18: Forwards than back
-**Jul 17, 2026 | Simon**  
-**Total time spent: 1 hours**
-This journal is about July 15, written on the 17th  
-July 15 | Day 18 Journal
+# Day 14: On the brink
+**Jun 30, 2026 | Simon**  
+**Total time spent: 1.9 hours**
+June 30 | Day 14 Journal
 
-On July 15th:
+Heres what I did today:
 
-**Constructed other third**  
-After making the first segment of legs yesterday, I built the second one today. This was easier because I had the hang of it however one of the offset shafts snapped and had to re-print it. (.5 hours)
+**Both motors spin w/ IR**  
+I recharged the batteries overnight and after some nudging of wires both motors connected to the L298N spin at the speeds I set. I followed a tutorial that came with my electronics kit to fully set up and send signal via the IR receiver from a remote. The C++ code uses the IRremote library to detect what is being sent. Then I see if the signal I received matches the signals for the 0, 1, or 3 buttons, if it does I speed up / stop the motors depending on what it takes. Currently O turns 0 off, 1 turns it on, and 3 turns it to reverse. [1.5 hours]
 
-**Tried to construct middle**  
-I added all the middle levels together between the "sandwich pieces", this was annoying because tiny defects made it hard to perfectly insert the levels into the groves of the end pieces. I did eventually get it all together but in the process I broke a offset shaft of the first segment I constructed. To remove the broken third I would need to redo the first segment again! (.5 hours)
+**Redone center**  
+I removed the leg portions from the center ends, then connected up the center levels to the ends and reattached the legs. Let me construct the center without sliding damage to the legs and not having to reach around the legs. [2 hours]
 
-![Image of Issac](Images/isaacimage13.webp)
+**Design + attachment of new piece.**  
+I made a slightly modified rotational shaft that connects to the motors I have. When removed the classic shaft and replaced it. This took a while because I had to disassembles the entire leg segment from the body (again) for both sides. [7 hours]
+
+![Image of Issac](Images/journals/journal14.png)
+
+--------------------------------------------------
+
+# Day 15: Im Back
+**Jul 12, 2026 | Simon**  
+**Total time spent: 0.5 hours**
+July 12 | Day 15 Journal
+
+After a vacation heres what I did today:
+
+**Disassembly**  
+The biggest issue with Isaac is that he is connected with flimsy hot glue. While it is fast, hot glue isn't strong enough for the bots... One vacation I ordered some PLA glue, and this stuff is amazing! I tested on some scrap PLA and it is so strong I believe it will give Isaac the final boost he needs to cross the finish line.
+
+To prepare to redo Issac for the PLA glue I disassembled him, while it was sad to see my progress visibly vanish, I believe this is necessary. I also began reprinting the rotation offset shafts as the original ones were damaged by hot glue. [.5 hrs]
+
+**Readme + Github updates**  
+I reorganised the github and began writing my README file, this is what the hackatime is.
+
+![Image of Issac](Images/journals/journal15.webp)
+--------------------------------------------------
+
+# Day 16: Bad times
+**Jul 13, 2026 | Simon**  
+**Total time spent: 0.5 hours**
+This journal is about July 13, written on the 15th  
+July 13 | Day 16 Journal
+
+Heres what did on July 13:
+
+**Began to reprint some of the offset shafts**  
+I needed to print all 6 offset shafts because they were messed up by hot glue. At first I tried printing 3 at a time, however this ended up taking too much space when I added the leg parts. I printed one at a time until all 6 were done. (.5 hours)
+
+![Image of Issac](Images/journals/journal16.webp)
 
 --------------------------------------------------
 
@@ -383,61 +338,44 @@ I printed out some rotational shafts to replace old damaged ones. The prints wen
 **(Re)Constructed a leg third**  
 I began to attach leg pieces to their respective offset and rotational shafts using the PLA glue. PLA glue is powerful and removing it would mean I would need to reprint parts, so I tried to be as careful and precise as possible. Unfortunately on the first glue an offset shaft snapped, I moved on to the other two leg pairs and got them glued while printing a new offset shaft. Finally I glued on the final piece and the third was done! (1 hour)
 
-![Image of Issac](Images/IMG_3763.jpeg)
+![Image of Issac](Images/journals/journal17.webp)
+--------------------------------------------------
+
+# Day 18: Forwards than back
+**Jul 17, 2026 | Simon**  
+**Total time spent: 1 hours**
+This journal is about July 15, written on the 17th  
+July 15 | Day 18 Journal
+
+On July 15th:
+
+**Constructed other third**  
+After making the first segment of legs yesterday, I built the second one today. This was easier because I had the hang of it however one of the offset shafts snapped and had to re-print it. (.5 hours)
+
+**Tried to construct middle**  
+I added all the middle levels together between the "sandwich pieces", this was annoying because tiny defects made it hard to perfectly insert the levels into the groves of the end pieces. I did eventually get it all together but in the process I broke a offset shaft of the first segment I constructed. To remove the broken third I would need to redo the first segment again! (.5 hours)
+
+![Image of Issac](Images/issaclegs.png)
 
 --------------------------------------------------
 
- 7
+# Day 19: "Crap"
+**Jul 17, 2026 | Simon**  
+**Total time spent: 1.8 hours**
+This journal is about July 16, written on the 17th  
+July 16 | Day 19 Journal
 
-# Day 24: adapting to the motors
-**Total time spent: 0.9 hours**
-**Jul 28, 2026 | Simon**  
-July 27 | Day 24 Journal  
-Written on 28th for the 27th
+Heres what I did on July 16th:
 
-**Motors arrived, integrating them into the design**  
-The all metal TT's arrived! Because the end of them is different I had to print a new adapter to fit onto what I had already. For the finished project I will include the adapter and an original shaft designed for them. I used dimensions I found online, adding some wiggle room for hot glue + error. Luckily they fit on the first try and I glued them onto the shafts attached to the legs. Unfortunately I glued them a little offset on the first try so I had to rip them out and align them better. [.7 hours]
+**Shafts reprint**  
+I printed 3 rotational shafts and attached each leg pair on the broken third to a new offset shaft. I then attached these together with glue. I found that gluing them before inserting into the backplate works the best. There were some hiccups with the gluing, parts not sticking or being on at an angle, however no reprinting was needed and every issue was resolved. 1.75 hours]
 
-**Spin!!!!!!**  
-I attached the motors to the dual motor controller and began experimenting with the code to make them spin. I found 65 to be a good speed that isn't too fast or too unreliable. I than turned them on, attached them to the adapters glued to the legs, and clicked the one button on the remote to start them. AND THE LEGS SPINNNNNN!!!!!!!!!!!!!! This is the greatest achievement of this project so far and it was just the motors! Holy crap. [.2 hours]
+**Middle assembly**  
+I reconstructed the middle by adding hot glue to each of the "levels" so they stay in place. These shelves are where the electronics sit. I also added each of the leg segments to the middle, I attached them with hot glue so they could be removed if needed. I then added in the electronics and hot glued the motors into the leg things.
 
-I spent the rest of the time I had messing with the motors and different speeds, 65 is the best still. I can't upload videos here but there will be some in the github.
+Unfortunately while I was completing this, a offset shaft on the top of one of the leg segments broke. This doesn't affect the other legs but it can let some of the parts slip off. I tried to fix it by gluing a cap of sorts onto the broken end, but I accidentally glued the leg pieces together and had to remove them. Because the glue is so strong I will need to reprint an entire leg segment and re-attach it :(. (.5 hour).
 
-![Image of Issac](Images/isaacimage14.webp)
-
---------------------------------------------------
-
-# Day 23: New Motors
-**Jul 28, 2026 | Simon** 
-**Total time spent: 0.5 hours**
-July 26 | Day 23 Journal
-
-Heres what I did today:
-
-**Broke a leg block again**  
-I have lost track of how many times ive broken leg blocks but this was super crazy. I was just trying to get the legs to rotate smoothly when I broke a offset shaft again. It took so long to fix because I had to glue the top of the rotation shaft onto the rest of it while making sure no parts slipped off and managing the other leg pairs as this was in the middle of the leg block. I ended up extending the rotational shaft to prevent accidentally gluing pieces that need to move. (.5 hours)
-
-**New code + broken motor**  
-I hooked the motors again, and slowed them down because they were going too fast to mesh right with the gears. But they just don't work. The weight and power needed to spin the legs is too much for these smaller motors to handle and I finally came to this conclusion. My solution is obvious but I didn't want to do it out of worry that it might extend this project longer: new, more powerful motors. The motors I got were all metal TT gearbox motors, they work with the dual controller and power a bunch of gears that increase torque before outputting.
-
-![Image of Issac](Images/isaacimage15.webp)
-
---------------------------------------------------
-
-# Day 22: AHHHHHHHHHHHHHHHHHHHHHHH
-**Jul 25, 2026 | Simon**  
-**Total time spent: 2 hours**
-July 25 | Day 22 Journal
-
-Heres what I did today:
-
-**Tried to reglue a piece, ended up ruining it**  
-As I may have mentioned, one of the offset shafts on the end of one of the leg blocks is broken. This isn't a critical issue but it does cause the pieces to slid off sometimes. In an attempt to fix this I glued the top of an offset shaft onto the part, however I accidentally got glue on the parts that spin, locking the leg pair in place. To make it worse when I tried to remove the glue it just snapped part of the leg piece off, rendering them useless :(. This whole process also broke the middle leg pair. I decided to fully redo the block of three leg pairs so heres how. [1 hour]
-
-**Redid a leg pair block**  
-To redo this I needed six legs or three leg pairs, I salvaged two from the messed up block. I printed the parts needed for four leg pairs and began to print the tiles that encased them. Unfortunately I messed up two prints, purely my fault, so I ended up wasting time and filament. I also printed three more offset shafts and rotational shafts to use in the new block. I glued the pieces together without any issues and the block works.[~3 hours of printing, 1 of actually doing stuff]
-
-![Image of Issac](Images/IMG_3764.jpeg)
+![Image of Issac](Images/journals/journal19.webp)
 
 --------------------------------------------------
 
@@ -464,7 +402,59 @@ Gears can increase torque! This was my savior!!! Just use a smaller gear powerin
 *Soldering motors back*  
 Unfortunately the wires on one motor broke off, so I took a wire from my electronics kit and soldered it onto the motor. I was a little sacred this wouldn't work but the motor spins just fine! [.5 hours]
 
-![Image of Issac](Images/isaacimage16.webp)
+![Image of Issac](Images/journals/journal20.webp)
+
+--------------------------------------------------
+
+# Day 22: AHHHHHHHHHHHHHHHHHHHHHHH
+**Jul 25, 2026 | Simon**  
+**Total time spent: 2 hours**
+July 25 | Day 22 Journal
+
+Heres what I did today:
+
+**Tried to reglue a piece, ended up ruining it**  
+As I may have mentioned, one of the offset shafts on the end of one of the leg blocks is broken. This isn't a critical issue but it does cause the pieces to slid off sometimes. In an attempt to fix this I glued the top of an offset shaft onto the part, however I accidentally got glue on the parts that spin, locking the leg pair in place. To make it worse when I tried to remove the glue it just snapped part of the leg piece off, rendering them useless :(. This whole process also broke the middle leg pair. I decided to fully redo the block of three leg pairs so heres how. [1 hour]
+
+**Redid a leg pair block**  
+To redo this I needed six legs or three leg pairs, I salvaged two from the messed up block. I printed the parts needed for four leg pairs and began to print the tiles that encased them. Unfortunately I messed up two prints, purely my fault, so I ended up wasting time and filament. I also printed three more offset shafts and rotational shafts to use in the new block. I glued the pieces together without any issues and the block works.[~3 hours of printing, 1 of actually doing stuff]
+
+![Image of Issac](Images/journals/journal22.png)
+
+--------------------------------------------------
+
+# Day 23: New Motors
+**Jul 28, 2026 | Simon** 
+**Total time spent: 0.5 hours**
+July 26 | Day 23 Journal
+
+Heres what I did today:
+
+**Broke a leg block again**  
+I have lost track of how many times ive broken leg blocks but this was super crazy. I was just trying to get the legs to rotate smoothly when I broke a offset shaft again. It took so long to fix because I had to glue the top of the rotation shaft onto the rest of it while making sure no parts slipped off and managing the other leg pairs as this was in the middle of the leg block. I ended up extending the rotational shaft to prevent accidentally gluing pieces that need to move. (.5 hours)
+
+**New code + broken motor**  
+I hooked the motors again, and slowed them down because they were going too fast to mesh right with the gears. But they just don't work. The weight and power needed to spin the legs is too much for these smaller motors to handle and I finally came to this conclusion. My solution is obvious but I didn't want to do it out of worry that it might extend this project longer: new, more powerful motors. The motors I got were all metal TT gearbox motors, they work with the dual controller and power a bunch of gears that increase torque before outputting.
+
+![Image of Issac](Images/journals/journal23.webp)
+
+--------------------------------------------------
+
+# Day 24: adapting to the motors
+**Total time spent: 0.9 hours**
+**Jul 28, 2026 | Simon**  
+July 27 | Day 24 Journal  
+Written on 28th for the 27th
+
+**Motors arrived, integrating them into the design**  
+The all metal TT's arrived! Because the end of them is different I had to print a new adapter to fit onto what I had already. For the finished project I will include the adapter and an original shaft designed for them. I used dimensions I found online, adding some wiggle room for hot glue + error. Luckily they fit on the first try and I glued them onto the shafts attached to the legs. Unfortunately I glued them a little offset on the first try so I had to rip them out and align them better. [.7 hours]
+
+**Spin!!!!!!**  
+I attached the motors to the dual motor controller and began experimenting with the code to make them spin. I found 65 to be a good speed that isn't too fast or too unreliable. I than turned them on, attached them to the adapters glued to the legs, and clicked the one button on the remote to start them. AND THE LEGS SPINNNNNN!!!!!!!!!!!!!! This is the greatest achievement of this project so far and it was just the motors! Holy crap. [.2 hours]
+
+I spent the rest of the time I had messing with the motors and different speeds, 65 is the best still. I can't upload videos here but there will be some in the github.
+
+![Image of Issac](Images/journals/journal24.webp)
 
 --------------------------------------------------
 
@@ -511,25 +501,11 @@ While Isaac is very good at moving and completes my goal for this project, heres
 **V2 Plan**  
 I wanna move on to other projects but Isaac will remain a possibility of upgrading him. I wanna wait a bit so I don't burn out fast but I do want to upgrade him sometime
 
-![Image of Issac](Images/IMG_3768.jpeg)
+![Image of Issac](Images/journals/journal25.webp)
 
---------------------------------------------------
+![Image of Issac](Images/journals/journal25_2.webp)
 
- 9
-
-# Added stuff to repo
-**Sep 30, 2026 | Simon**  
-**Total time spent: 0.3 hours**
-September 30th | Day 27 Journal
-
-Been a while but I wanted to add images and assembly step files. Did that in 3D Files/Assemblies so it should be all set now. And I guess images in an imgs folder weren't enough so I added them to the readme.  
-I saw just did this through github so I didn't need to mass commits and stuff.  
-Anyway hoping to get my portfolio out man its been a while.  
-Thank you review team!
-
-Isaac The Carpentopod
-
-![Image of Issac](Images/isaacimage17.webp)
+![Image of Issac](Images/journals/journal25_3.webp)
 
 --------------------------------------------------
 
@@ -561,9 +537,26 @@ The new vids of Isaac are also listed as the demo and on the repo.
 **Moving forward:**  
 In least blocks done with Isaac, but took so much work and is not in the best shape. If I do make a "v2" it will probably have no remote.
 
-![Image of Issac](Images/isaacimage18.webp)
+![Image of Issac](Images/journals/journal26.webp)
 
 ------------------------------------------
+
+# Added stuff to repo
+**Sep 30, 2026 | Simon**  
+**Total time spent: 0.3 hours**
+September 30th | Day 27 Journal
+
+Been a while but I wanted to add images and assembly step files. Did that in 3D Files/Assemblies so it should be all set now. And I guess images in an imgs folder weren't enough so I added them to the readme.  
+I saw just did this through github so I didn't need to mass commits and stuff.  
+Anyway hoping to get my portfolio out man its been a while.  
+Thank you review team!
+
+Isaac The Carpentopod
+
+![Image of Issac](Images/isaac_vscode.png)
+
+------------------------------------------
+
 # Day 27: What?
 **Oct 31, 2026 | Simon**
 **Total time spent: 0.2 hours**
@@ -588,3 +581,16 @@ Made the guide README file and guide folder (replacing misc). Also fixed the ima
 There is an assembly guide but it got rejected for not having one???? Linked it at top of readme oml.
 
 ![Guide in VSCODE](Images/isaac_vscode.png)
+
+---------------------------
+# Day 30: Fixed Journal.md
+**Nov 23, 2026 | Simon**
+**Total time spent: 0.1 hours**
+
+Okay, i needed to fix my JOURNAL.md images. The review let me know that was the only thing wrong (i think? thats all they said in slack, hopfully). Anyway it wasnt to hard to get ride of the images, and re-import all the ones from macondo.
+
+I did have to dig up some images that had broken on macondo.
+
+Im very sorry for this werid review process. Moving from macondo to forge was messy and I definatly did some parts wrong. I hope this is the last time anyone has to look at my project. Thanks!
+
+![Image of Issac](Images/journals/journal30.png)
