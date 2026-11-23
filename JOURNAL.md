@@ -436,7 +436,7 @@ I have lost track of how many times ive broken leg blocks but this was super cra
 **New code + broken motor**  
 I hooked the motors again, and slowed them down because they were going too fast to mesh right with the gears. But they just don't work. The weight and power needed to spin the legs is too much for these smaller motors to handle and I finally came to this conclusion. My solution is obvious but I didn't want to do it out of worry that it might extend this project longer: new, more powerful motors. The motors I got were all metal TT gearbox motors, they work with the dual controller and power a bunch of gears that increase torque before outputting.
 
-![Image of Issac](Images/journals/journal23.webp)
+![Image of Issac](Images/journals/journal23.png)
 
 --------------------------------------------------
 
